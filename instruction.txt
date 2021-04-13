@@ -12,4 +12,4 @@ git checkout -b {branch name}
 git checkout
 
 # show branch dif
-git dif {target bracnh}
+git dif {target branh
