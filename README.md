@@ -1,4 +1,6 @@
 # README
+ Hi there~
+ 
  A new folder
 
  new things
