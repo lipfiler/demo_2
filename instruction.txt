@@ -1,0 +1,15 @@
+# ANy changes
+git add
+git commit -m " "
+git push origin { branch name}
+git status
+
+## branch
+# new branch
+git checkout -b {branch name}
+
+# switch branch
+git checkout
+
+# show branch dif
+git dif {target bracnh}
