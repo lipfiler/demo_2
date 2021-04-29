@@ -1,7 +1,7 @@
 # ANy changes
 git add
 git commit -m " "
-git push origin { branch name}
+git push origin { branch name}. // To make it longer...............
 git status
 
 ## branch
